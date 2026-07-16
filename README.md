@@ -1,6 +1,7 @@
 # 英国实体 SIM 卡 giffgaff 激活使用教程
 
-
+## 注意事项
+![image.png](https://r2.nocpp.com/img/1784163735719_file_0000000061307207ad6f9c2bdf089325.png)
 ## 激活
 
 1. 不要插卡，电脑浏览器（建议无痕模式）打开 https://www.giffgaff.com/activate 输入卡片上 6 位激活码，点击 **Activate your SIM**。
