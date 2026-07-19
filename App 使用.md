@@ -1,6 +1,5 @@
 # giffgaff App 使用
 
-来源：https://www.giffgaff.shop/guides/3-app/
 
 giffgaff 官方 App 可用于管理手机卡，包括激活 SIM、查看余额、购买套餐和旅行流量包，以及处理 eSIM 相关功能。
 
