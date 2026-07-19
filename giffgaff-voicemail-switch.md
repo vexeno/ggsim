@@ -1,7 +1,5 @@
 # giffgaff 如何关闭 voicemail 语音信箱
 
-> 🛒 现货  
-> 实体卡现货包邮👉 [点此购买](https://www.giffgaff.shop/guides/1-order/)。咨询 + 微信：`giffgaffshop`
 
 ## 🔇 为什么要关闭语音信箱
 
