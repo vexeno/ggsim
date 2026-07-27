@@ -1,5 +1,5 @@
 # 英国实体 SIM 卡 giffgaff 激活使用教程
-
+TG:@vyoss(https://t.me/vyoss)
 ## 注意事项
 ![image.png](https://r2.nocpp.com/img/1784163735719_file_0000000061307207ad6f9c2bdf089325.png)
 ## 激活
