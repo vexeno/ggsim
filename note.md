@@ -53,6 +53,33 @@ Thank you very much for your help.
 
 有用户经验帖提到，若是余额/退款问题，后续往往需要继续走官方投诉渠道，而不是只在普通工单里反复问。
 
+还没有被封的，在14天内激活的可以申请退款，他们的规则里写的很清楚
+
+https://www.giffgaff.com/boiler-plate/return-policy
+
+已经被封的，去申请退款，不给退款的可以升级，下面是问了AI给的回复，我去查了下，说不定真可行，尤其是最后一个升级路径。钱多钱少不重要，主要是不能让他们这么舒服的就把钱赚了。
+
+1、先尝试直接申请退款
+
+登录你的giffgaff账号，通过官方agent联系入口提交请求：
+
+https://support2.giffgaff.com/app/ask
+
+如果agent拒绝或处理不了，就进入正式投诉流程。
+
+2、正式投诉giffgaff
+官网投诉页面：https://www.giffgaff.com/complaints
+
+或直接用投诉表：https://support2.giffgaff.com/app/complaint
+
+3、升级到独立ADR机构（Communications Ombudsman）
+
+giffgaff属于 Communications Ombudsman（原Ombudsman Services: Communications）监管。
+
+联系方式：
+
+官网提交： https://www.commsombudsman.org/ 或专门页面 https://www.commsombudsman.org/raise-dispute/giffgaff
+
 参见步骤4获取pac等待合适的携号转网运营商。
 
 ---
