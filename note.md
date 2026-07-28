@@ -53,7 +53,7 @@ Thank you very much for your help.
 
 有用户经验帖提到，若是余额/退款问题，后续往往需要继续走官方投诉渠道，而不是只在普通工单里反复问。
 
-还没有被封的，在14天内激活的可以申请退款，他们的规则里写的很清楚
+在14天内激活的可以尝试申请退款，他们的规则里写的很清楚
 
 https://www.giffgaff.com/boiler-plate/return-policy
 
